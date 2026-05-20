@@ -125,7 +125,7 @@ Create a `.env` file with your own credentials.
 
 ## 👨‍💻 Author
 
-**Harshi Pilot**
+**Priya Bhargavi**
 
 ---
 
