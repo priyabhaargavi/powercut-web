@@ -35,6 +35,7 @@ lerna-debug.log*
 # Firebase
 # =========================
 .firebase/
+src/firebase.js
 firebase-debug.log
 
 # =========================
